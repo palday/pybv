@@ -1,0 +1,17 @@
+# 003
+- multiple segments
+- software filters
+- 0.1 uv resolution
+
+# 004
+- single segment
+- software filters
+- 0.1 uv resolution
+
+# 005
+- single segment
+- 0.5 uV resolution
+
+# 006
+- single segment
+- 10 uV resolution

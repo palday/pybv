@@ -1,0 +1,3 @@
+# Never modify line endings of sample data
+*.vhdr -crlf
+*.vmrk -crlf
